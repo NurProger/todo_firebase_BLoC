@@ -1,4 +1,6 @@
-# firebase_todo
+# todo_firebase_BLoC
+My first project with state managment BLoC
+and my first project with FireBase(firebase_auth, firestore_cloud)
 
 A new Flutter project.
 
